@@ -2,7 +2,7 @@ export const colors = {
   colors: {
     text: '#000',
     background: '#fff',
-    primary: '#cc0070',
+    primary: '#7ecc00',
     primaryHover: '#0077ccaa',
     secondary: '#f9f9f9',
     secondaryHover: '#f9f9f9aa',
